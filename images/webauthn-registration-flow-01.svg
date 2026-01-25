@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="60 136 1118 547" width="1118" height="547">
+    <defs>
+        <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="g" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="#c1c1c1">
+            <path d="M7.2 0 0-2.7v5.4Z" fill="currentColor" stroke="currentColor"/>
+        </marker>
+        <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="h" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="#000">
+            <path d="M7.2 0 0-2.7v5.4Z" fill="currentColor" stroke="currentColor"/>
+        </marker>
+    </defs>
+    <g style="fill:none;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1">
+        <path id="a" d="M347 205h19v68h-19z"/>
+        <clipPath id="b">
+            <use height="100%" width="100%" xlink:href="#a"/>
+        </clipPath>
+        <g clip-path="url(#b)">
+            <image xlink:href="image7.tiff" width="19" height="68" transform="rotate(180 183 136.5)"/>
+        </g>
+        <path id="c" d="M846 449h19v68h-19z"/>
+        <clipPath id="d">
+            <use height="100%" width="100%" xlink:href="#c"/>
+        </clipPath>
+        <g clip-path="url(#d)">
+            <image xlink:href="image7.tiff" width="19" height="68" transform="translate(846 449)"/>
+        </g>
+        <path id="e" d="M867 205h19v68h-19z"/>
+        <clipPath id="f">
+            <use height="100%" width="100%" xlink:href="#e"/>
+        </clipPath>
+        <g clip-path="url(#f)">
+            <image xlink:href="image7.tiff" width="19" height="68" transform="translate(867 205)"/>
+        </g>
+        <path style="stroke:#c1c1c1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#g)" d="M575.5 296v-97.3"/>
+        <path style="fill:#fff" d="M423.5 137H799v44H423.5z"/>
+        <path style="stroke:#000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:4,4" d="M423.5 137H799v44H423.5z"/>
+        <text style="fill:#000" x="358.892" y="143.011">
+        <tspan style="font-weight:700;font-size:21px;font-family:'Open Sans';fill:#000" y="165.011" x="507.943" font-weight="700" font-size="21">Relying Party Server</tspan>
+      </text>
+        <path style="fill:#fff" d="M423.5 539H799v44H423.5z"/>
+        <path style="stroke:#000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:4,4" d="M423.5 539H799v44H423.5z"/>
+        <text style="fill:#000" transform="translate(428.5 547)">
+        <tspan style="font-weight:700;font-size:21px;font-family:'Open Sans';fill:#000" y="22" x="108.712" font-weight="700" font-size="21">Authenticator</tspan>
+      </text>
+        <path style="stroke:#000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#h)" d="M548.667 181v97.3"/>
+        <path style="stroke:#000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#h)" d="M548.667 428v93.3"/>
+        <path style="stroke:#000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#h)" d="M673.833 539v-93.3"/>
+        <path style="stroke:#000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#h)" d="M673.833 296v-97.3"/>
+        <text style="fill:#0f71a9" transform="translate(371 205.5)">
+        <tspan style="font-weight:400;font-size:16px;font-family:'Open Sans';fill:#0f71a9" y="17" x="26.055" font-weight="400" font-size="16">challenge,</tspan>
+        <tspan style="font-weight:400;font-size:16px;font-family:'Open Sans';fill:#0f71a9" y="39" x="28.504" font-weight="400" font-size="16">user info,</tspan>
+        <tspan style="font-weight:400;font-size:16px;font-family:'Open Sans';fill:#0f71a9" y="61" x=".43" font-weight="400" font-size="16">relying party info</tspan>
+      </text>
+        <text style="fill:#2073a5" transform="translate(371.5 439.5)">
+        <tspan style="font-weight:400;font-size:16px;font-family:'Open Sans';fill:#2073a5" y="17" x="8.02" font-weight="400" font-size="16">relying party id</tspan>
+        <tspan style="font-weight:400;font-size:16px;font-family:'Open Sans';fill:#0f71a9" y="17" font-weight="400" font-size="16">,</tspan>
+        <tspan style="font-weight:400;font-size:16px;font-family:'Open Sans';fill:#0f71a9" y="39" x="30.504" font-weight="400" font-size="16">user info,</tspan>
+        <tspan style="font-weight:400;font-size:16px;font-family:'Open Sans';fill:#0f71a9" y="61" x=".469" font-weight="400" font-size="16">relying party info,</tspan>
+        <tspan style="font-weight:400;font-size:16px;font-family:'Open Sans';fill:#0f71a9" y="83" x="8.789" font-weight="400" font-size="16">clientDataHash</tspan>
+      </text>
+        <text style="fill:#0f71a9" transform="translate(728 450.5)">
+        <tspan style="font-weight:400;font-size:16px;font-family:'Open Sans';fill:#0f71a9" y="17" x=".273" font-weight="400" font-size="16">new public key,</tspan>
+        <tspan style="font-weight:400;font-size:16px;font-family:'Open Sans';fill:#0f71a9" y="39" x="8.512" font-weight="400" font-size="16">credential id,</tspan>
+        <tspan style="font-weight:400;font-size:16px;font-family:'Open Sans';fill:#0f71a9" y="61" x="16.234" font-weight="400" font-size="16">attestation</tspan>
+      </text>
+        <text style="fill:#0f71a9" transform="translate(730 216.5)">
+        <tspan style="font-weight:400;font-size:16px;font-family:'Open Sans';fill:#0f71a9" y="17" x="7.406" font-weight="400" font-size="16">clientDataJSON,</tspan>
+        <tspan style="font-weight:400;font-size:16px;font-family:'Open Sans';fill:#0f71a9" y="39" x=".457" font-weight="400" font-size="16">attestationObject</tspan>
+      </text>
+        <circle style="fill:#fff" r="15" cy="238.5" cx="522.5"/>
+        <circle style="stroke:#0f71a9;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" r="15" cy="238.5" cx="522.5"/>
+        <text style="fill:#0f71a9" transform="translate(515.5 227.5)">
+        <tspan style="font-weight:700;font-size:16px;font-family:'Open Sans';fill:#0f71a9" y="17" x="2.434" font-weight="700" font-size="16">1</tspan>
+      </text>
+        <circle style="fill:#fff" r="15" cy="483.5" cx="522.5"/>
+        <circle style="stroke:#0f71a9;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" r="15" cy="483.5" cx="522.5"/>
+        <text style="fill:#0f71a9" transform="translate(515.5 472.5)">
+        <tspan style="font-weight:700;font-size:16px;font-family:'Open Sans';fill:#0f71a9" y="17" x="2.434" font-weight="700" font-size="16">2</tspan>
+      </text>
+        <circle style="fill:#fff" r="15" cy="238.5" cx="701"/>
+        <circle style="stroke:#0f71a9;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" r="15" cy="238.5" cx="701"/>
+        <text style="fill:#0f71a9" transform="translate(694 227.5)">
+        <tspan style="font-weight:700;font-size:16px;font-family:'Open Sans';fill:#0f71a9" y="17" x="2.434" font-weight="700" font-size="16">5</tspan>
+      </text>
+        <circle style="fill:#fff" r="15" cy="483.5" cx="701"/>
+        <circle style="stroke:#0f71a9;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" r="15" cy="483.5" cx="701"/>
+        <text style="fill:#0f71a9" transform="translate(694 472.5)">
+        <tspan style="font-weight:700;font-size:16px;font-family:'Open Sans';fill:#0f71a9" y="17" x="2.434" font-weight="700" font-size="16">4</tspan>
+      </text>
+        <circle style="fill:#fff" r="15" cy="592" cx="611.25"/>
+        <circle style="stroke:#0f71a9;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" r="15" cy="592" cx="611.25"/>
+        <text style="fill:#0f71a9" transform="translate(604.25 581)">
+        <tspan style="font-weight:700;font-size:16px;font-family:'Open Sans';fill:#0f71a9" y="17" x="2.434" font-weight="700" font-size="16">3</tspan>
+      </text>
+        <text style="fill:#0f71a9" transform="translate(549.25 612)">
+        <tspan style="font-weight:400;font-size:16px;font-family:'Open Sans';fill:#0f71a9" y="17" x=".113" font-weight="400" font-size="16">user verification,</tspan>
+        <tspan style="font-weight:400;font-size:16px;font-family:'Open Sans';fill:#0f71a9" y="39" x="15.461" font-weight="400" font-size="16">new keypair,</tspan>
+        <tspan style="font-weight:400;font-size:16px;font-family:'Open Sans';fill:#0f71a9" y="61" x="21.734" font-weight="400" font-size="16">attestation</tspan>
+      </text>
+        <text style="fill:#0f71a9" transform="translate(872 472.5)">
+        <tspan style="font-weight:700;font-size:16px;font-family:'Open Sans';fill:#0f71a9" y="17" x=".406" font-weight="700" font-size="16">attestationObject</tspan>
+      </text>
+        <path style="fill:#0f71a9" d="M423.5 362H799v66H423.5z"/>
+        <path style="stroke:#000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" d="M423.5 362H799v66H423.5z"/>
+        <text style="fill:#fff" transform="translate(428.5 381)">
+        <tspan style="font-weight:700;font-size:21px;font-family:'Open Sans';fill:#fff" y="22" x="139.668" font-weight="700" font-size="21">Browser</tspan>
+      </text>
+        <path style="fill:#0f71a9" d="M423.5 296H799v66H423.5z"/>
+        <path style="stroke:#000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" d="M423.5 296H799v66H423.5z"/>
+        <text style="font-size:12.33704281px;fill:#fff" transform="scale(1.02809 .97268)" x="393.592" y="324.87">
+        <tspan style="font-weight:700;font-size:21.58982468px;font-family:'Open Sans';fill:#fff" y="347.488" x="463.179" font-weight="700" font-size="21">RP JavaScript Application</tspan>
+      </text>
+        <circle style="fill:#fff" r="15" cy="159" cx="795"/>
+        <circle style="stroke:#0f71a9;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" r="15" cy="159" cx="795"/>
+        <text style="fill:#0f71a9" transform="translate(788 148)">
+        <tspan style="font-weight:700;font-size:16px;font-family:'Open Sans';fill:#0f71a9" y="17" x="2.434" font-weight="700" font-size="16">6</tspan>
+      </text>
+        <circle style="fill:#fff" r="15" cy="238.5" cx="600"/>
+        <circle style="stroke:#c1c1c1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" r="15" cy="238.5" cx="600"/>
+        <text style="fill:#c1c1c1" transform="translate(593 227.5)">
+        <tspan style="font-weight:700;font-size:16px;font-family:'Open Sans';fill:#c1c1c1" y="17" x="2.434" font-weight="700" font-size="16">0</tspan>
+      </text>
+        <text style="fill:#0f71a9" transform="translate(821 148)">
+        <tspan style="font-weight:400;font-size:16px;font-family:'Open Sans';fill:#0f71a9" y="17" x=".145" font-weight="400" font-size="16">server validation</tspan>
+      </text>
+        <text style="fill:#0f71a9" transform="translate(893 227.5)">
+        <tspan style="font-weight:700;font-size:16px;font-family:'Open Sans';fill:#0f71a9" y="17" x="-5.031" font-weight="700" font-size="16">AuthenticatorAttestationResponse</tspan>
+      </text>
+        <image y="362.149" x="243.896" xlink:href="data:image/png;base64,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 Zf8Df8bEjWpeEHYAAAAASUVORK5CYII=" style="image-rendering:optimizeQuality" preserveAspectRatio="none" height="13" width="556.009" transform="skewY(-.205)"/>
+        <text style="fill:#0f71a9" transform="translate(65 227.5)">
+        <tspan style="font-weight:700;font-size:16px;font-family:'Open Sans';fill:#0f71a9" y="17" x=".34" font-weight="700" font-size="16">PublicKeyCredentialCreationOptions</tspan>
+      </text>
+    </g>
+</svg>

@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="34 36 1068 495" width="1068" height="495">
+    <defs>
+        <marker orient="auto" refY="0" refX="0" id="g" style="overflow:visible">
+            <path style="fill-rule:evenodd;stroke-width:.625;stroke-linejoin:round;stroke:#000;stroke-opacity:1;fill:#000;fill-opacity:1" d="M8.719 4.034-2.207.016 8.719-4.002c-1.746 2.372-1.736 5.618 0 8.036z" transform="translate(1.1) scale(1.1)"/>
+        </marker>
+        <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="e" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="#c1c1c1">
+            <path d="M7.2 0 0-2.7v5.4Z" fill="currentColor" stroke="currentColor"/>
+        </marker>
+        <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="f" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="#000">
+            <path d="M7.2 0 0-2.7v5.4Z" fill="currentColor" stroke="currentColor"/>
+        </marker>
+    </defs>
+    <g fill="none">
+        <path id="a" d="M333.5 105h19v68h-19z"/>
+        <clipPath id="b">
+            <use xlink:href="#a"/>
+        </clipPath>
+        <g clip-path="url(#b)">
+            <image xlink:href="image7.tiff" transform="rotate(180 176.25 86.5)" height="68" width="19"/>
+        </g>
+        <path id="c" d="M808 104.5h19v68h-19z"/>
+        <clipPath id="d">
+            <use xlink:href="#c"/>
+        </clipPath>
+        <g clip-path="url(#d)">
+            <image xlink:href="image7.tiff" transform="translate(808 104.5)" height="68" width="19"/>
+        </g>
+        <path marker-end="url(#e)" stroke="#c1c1c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M509.5 196V98.7"/>
+        <path fill="#fff" d="M357.5 37H733v44H357.5z"/>
+        <path d="M357.5 37H733v44H357.5Z" stroke-dasharray="4.0,4.0" stroke-linejoin="round" stroke-linecap="round" stroke="#000"/>
+        <text style="fill:#000" x="300.487" y="41.555">
+          <tspan font-size="21" font-weight="700" x="449.538" y="63.555" style="font-weight:700;font-size:21px;font-family:'Open Sans';fill:#000">Relying Party Server</tspan>
+        </text>
+        <path fill="#fff" d="M357.5 409H733v44H357.5z"/>
+        <path d="M357.5 409H733v44H357.5Z" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0"/>
+        <text transform="translate(362.5 417)" fill="#000">
+          <tspan font-family="Open Sans" font-size="21" font-weight="700" x="108.712" y="22">Authenticator</tspan>
+        </text>
+        <path marker-end="url(#f)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M482.667 81v97.3"/>
+        <path marker-end="url(#f)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M482.667 328v63.3"/>
+        <path marker-end="url(#f)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M607.833 409v-63.3"/>
+        <path marker-end="url(#f)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M607.833 196V98.7"/>
+        <text transform="translate(357.5 127.5)" fill="#2073a5">
+          <tspan font-family="Open Sans" font-size="16" font-weight="400" x=".016" y="17">challenge</tspan>
+        </text>
+        <text transform="translate(314 350)" fill="#2073a5">
+          <tspan font-family="Open Sans" font-size="16" font-weight="400" x=".02" y="17">relying party id,</tspan>
+          <tspan font-family="Open Sans" font-size="16" font-weight="400" x=".789" y="39">clientDataHash</tspan>
+        </text>
+        <text transform="translate(671.5 350)" fill="#2073a5">
+          <tspan font-family="Open Sans" font-size="16" font-weight="400" x=".426" y="17">authenticatorData</tspan>
+          <tspan font-family="Open Sans" font-size="16" font-weight="400" x="33.59" y="39">signature</tspan>
+        </text>
+        <text transform="translate(662 105.5)" fill="#2073a5">
+          <tspan font-family="Open Sans" font-size="16" font-weight="400" x="12.117" y="17">clientDataJSON,</tspan>
+          <tspan font-family="Open Sans" font-size="16" font-weight="400" x=".465" y="39">authenticatorData,</tspan>
+          <tspan font-family="Open Sans" font-size="16" font-weight="400" x="35.59" y="61">signature</tspan>
+        </text>
+        <circle cx="456.5" cy="138.5" r="15" fill="#fff"/>
+        <circle cx="456.5" cy="138.5" r="15" stroke="#2073a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <text transform="translate(449.5 127.5)" fill="#2073a5">
+          <tspan font-family="Open Sans" font-size="16" font-weight="700" x="2.434" y="17">1</tspan>
+        </text>
+        <circle cx="456.5" cy="372" r="15" fill="#fff"/>
+        <circle cx="456.5" cy="372" r="15" stroke="#2073a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <text transform="translate(449.5 361)" fill="#2073a5">
+          <tspan font-family="Open Sans" font-size="16" font-weight="700" x="2.434" y="17">2</tspan>
+        </text>
+        <circle cx="635" cy="138.5" r="15" fill="#fff"/>
+        <circle cx="635" cy="138.5" r="15" stroke="#2073a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <text transform="translate(628 127.5)" fill="#2073a5">
+          <tspan font-family="Open Sans" font-size="16" font-weight="700" x="2.434" y="17">5</tspan>
+        </text>
+        <circle cx="635" cy="372" r="15" fill="#fff"/>
+        <circle cx="635" cy="372" r="15" stroke="#2073a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <text transform="translate(628 361)" fill="#2073a5">
+          <tspan font-family="Open Sans" font-size="16" font-weight="700" x="2.434" y="17">4</tspan>
+        </text>
+        <circle cx="545.25" cy="462" r="15" fill="#fff"/>
+        <circle cx="545.25" cy="462" r="15" stroke="#2073a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <text transform="translate(538.25 451)" fill="#2073a5">
+          <tspan font-family="Open Sans" font-size="16" font-weight="700" x="2.434" y="17">3</tspan>
+        </text>
+        <text transform="translate(483.25 482)" fill="#2073a5">
+          <tspan font-family="Open Sans" font-size="16" font-weight="400" x=".113" y="17">user verification,</tspan>
+          <tspan font-family="Open Sans" font-size="16" font-weight="400" x="2.332" y="39">create assertion</tspan>
+        </text>
+        <path fill="#1972a7" d="M357.5 262H733v66H357.5z"/>
+        <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M357.5 262H733v66H357.5z"/>
+        <text transform="translate(362.5 281)" fill="#fff">
+          <tspan font-family="Open Sans" font-size="21" font-weight="700" x="139.668" y="22">Browser</tspan>
+        </text>
+        <path fill="#1972a7" d="M357.5 196H733v66H357.5z"/>
+        <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M357.5 196H733v66H357.5z"/>
+        <text style="fill:#fff" x="353.887" y="215">
+          <tspan font-size="21" font-weight="700" x="421.573" y="237" style="font-weight:700;font-size:21px;font-family:'Open Sans';fill:#fff">RP JavaScript Application</tspan>
+        </text>
+        <circle cx="740" cy="59" r="15" fill="#fff"/>
+        <circle cx="740" cy="59" r="15" stroke="#2073a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <text transform="translate(733 48)" fill="#2073a5">
+          <tspan font-family="Open Sans" font-size="16" font-weight="700" x="2.434" y="17">6</tspan>
+        </text>
+        <circle cx="534" cy="138.5" r="15" fill="#fff"/>
+        <circle cx="534" cy="138.5" r="15" stroke="#c1c1c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <text transform="translate(527 127.5)" fill="#c1c1c1">
+          <tspan font-family="Open Sans" font-size="16" font-weight="700" x="2.434" y="17">0</tspan>
+        </text>
+        <text transform="translate(767 48)" fill="#2073a5">
+          <tspan font-family="Open Sans" font-size="16" font-weight="400" x=".145" y="17">server validation</tspan>
+        </text>
+        <text transform="translate(832 127.5)" fill="#2073a5">
+          <tspan font-family="Open Sans" font-size="16" font-weight="700" x=".172" y="17">AuthenticatorAssertionResponse</tspan>
+        </text>
+        <text transform="translate(39.5 127.5)" fill="#2073a5">
+          <tspan font-family="Open Sans" font-size="16" font-weight="700" x=".164" y="17">PublicKeyCredentialRequestOptions</tspan>
+        </text>
+        <text style="fill:#2073a5" x="206.59" y="128.361" transform="translate(-29.284 123.165)">
+          <tspan y="145.361" x="206.754" font-weight="700" font-size="16" style="font-weight:700;font-size:16px;font-family:'Open Sans';fill:#2073a5">WebAuthnAPI</tspan>
+        </text>
+        <path style="fill:none;stroke:#000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#g)" d="M334.59 140.835h43.926" transform="translate(-29.284 123.165)"/>
+        <path style="fill:#ef0000;stroke:#fc0000;stroke-width:5.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:22,22;stroke-dashoffset:0;fill-opacity:1" d="M356.123 260.555c376.383 0 376.383-.861 376.383-.861"/>
+    </g>
+</svg>

@@ -1,0 +1,129 @@
+<svg width="820.713" height="565.484" viewBox="0 0 615.535 424.113" xml:space="preserve" version="1.1" id="svg4696" style="font-size:12px;overflow:visible;color-interpolation-filters:sRGB;fill:none;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3" xmlns="http://www.w3.org/2000/svg">
+    <style type="text/css" id="style4219">
+        .st2{fill:#000;font-family:Calibri;font-size:.833336em}.st3{fill:none}.st3,.st4{stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:.5}.st10,.st6,.st7{fill:#000;font-family:Calibri;font-size:.75em}.st10,.st7{font-size:.666664em}.st10{font-size:.583328em}.st11{fill:none;stroke:#000;stroke-width:.25}.st12{font-size:1em}
+    </style>
+    <text style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:11px;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000;stroke-width:.959927" id="text4229" class="st2" y="27.248" x="295.495" transform="scale(1.04175 .95993)">ATTESTATION OBJECT</text>
+    <g id="g4746" transform="translate(-10.92 4.58)">
+        <g transform="translate(382.098 -8.082)" id="g4727">
+            <text x="112.849" y="62.388" class="st2" id="text4549" style="font-size:9.5993px;line-height:0%;font-family:Calibri;text-align:center;text-anchor:middle;fill:#000" transform="scale(1.04175 .95993)">“<tspan class="st12" id="tspan4547" style="font-size:9.5993px;text-align:center;text-anchor:middle">authData</tspan>“:   ...</text>
+            <path class="st11" id="rect4556" style="fill:none;stroke:#000;stroke-width:.47905511;stroke-miterlimit:3;stroke-dasharray:none" d="M4.817 46.117h224.886v20.896H4.817z"/>
+        </g>
+        <g id="g3405">
+            <path class="st11" id="rect4545" style="fill:none;stroke:#000;stroke-width:.47905511;stroke-miterlimit:3;stroke-dasharray:none" d="M25.573 38.035H126.99v20.896H25.573z"/>
+            <text x="73.224" y="53.39" class="st2" id="text4564" style="font-size:9.5993px;line-height:0%;font-family:Calibri;text-align:center;text-anchor:middle;fill:#000" transform="scale(1.04175 .95993)">“fmt“:   “packed“</text>
+        </g>
+        <g id="g3410">
+            <path class="st11" id="rect4571" style="fill:none;stroke:#000;stroke-width:.47905511;stroke-miterlimit:3;stroke-dasharray:none" d="M126.991 38.035h259.924v20.896H126.991z"/>
+            <text x="246.944" y="53.39" class="st2" id="text4575" style="font-size:9.5993px;line-height:0%;font-family:Calibri;text-align:center;text-anchor:middle;fill:#000" transform="scale(1.04175 .95993)">“<tspan class="st12" id="tspan4573" style="font-size:9.5993px;text-align:center;text-anchor:middle">attStmt</tspan>“:   ...</text>
+        </g>
+    </g>
+    <g id="g10847" transform="matrix(-1.03612 0 0 2.44227 613.523 -60.363)">
+        <path id="path10821" d="M116.928 52.9C75.853 84.369 15.888 57.1 15.888 81.895" style="fill:none;stroke:#8c8c8c;stroke-width:.30115009;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none"/>
+        <path style="fill:none;stroke:#8c8c8c;stroke-width:.30115009;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none" d="M116.928 52.9c72.087 45.935 404.968-12.26 403.305 31.541" id="path10823"/>
+    </g>
+    <g id="g4988" transform="translate(58.949 20.744)">
+        <path style="fill:none;stroke:#000;stroke-width:.479963;stroke-linecap:round;stroke-linejoin:round" id="rect4309" class="st3" d="M13.705 134.393h115.417v20.896H13.705z"/>
+        <path class="st3" id="rect4323" style="fill:none;stroke:#000;stroke-width:.479963;stroke-linecap:round;stroke-linejoin:round" d="M129.122 134.554h45.354v20.896h-45.354z"/>
+        <path class="st3" id="rect4409" style="fill:none;stroke:#000;stroke-width:.479963;stroke-linecap:round;stroke-linejoin:round" d="M174.476 134.554h101.417v20.896H174.476z"/>
+        <path class="st3" id="rect4423" style="fill:none;stroke:#000;stroke-width:.479963;stroke-linecap:round;stroke-linejoin:round" d="M275.893 134.554h130v20.896h-130z"/>
+        <path style="fill:none;stroke:#000;stroke-width:.479963;stroke-linecap:round;stroke-linejoin:round" id="rect4437" class="st3" d="M405.893 134.554h134.471v20.896H405.893z"/>
+        <g id="g2576" transform="translate(13.5)">
+            <path d="m504.948 131.942 2.83 8.708-2.83 8.708 2.83 8.708h5.67l-2.83-8.708 2.83-8.708-2.83-8.708z" id="path4451" style="fill:#fff;stroke:none;stroke-width:.959927;stroke-linecap:butt"/>
+            <path d="m504.948 131.942 2.83 8.708-2.83 8.708 2.83 8.708" class="st4" id="path4458" style="stroke:#000;stroke-width:.479963;stroke-linecap:round;stroke-linejoin:round"/>
+            <path d="m510.618 131.942 2.83 8.708-2.83 8.708 2.83 8.708" class="st4" id="path4465" style="stroke:#000;stroke-width:.479963;stroke-linecap:round;stroke-linejoin:round"/>
+        </g>
+        <text x="455.752" y="126.865" class="st7" id="text4510" style="font-size:7.67938px;line-height:0%;font-family:Calibri;text-align:center;text-anchor:middle;fill:#000;stroke-width:.959927" transform="matrix(1.04167 .01271 -.01171 .95986 0 0)">variable length if present (CBOR)</text>
+        <text transform="scale(.9908 1.00928)" style="font-size:10.0928px;line-height:0%;font-family:Calibri;text-align:center;text-anchor:middle;fill:#000;stroke-width:1.00928" id="text4594" class="st2" y="110.549" x="269.995">AUTHENTICATOR DATA</text>
+        <path class="st3" id="rect4423-0" style="fill:none;stroke:#000;stroke-width:.47905511;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" d="M183.774 257.87h81.224v20.799h-81.224z"/>
+        <text x="215.687" y="282.896" class="st2" id="text4446-3" style="font-size:9.59927px;line-height:0%;font-family:Calibri;text-align:center;text-anchor:middle;fill:#000;stroke-width:.959927" transform="scale(1.04175 .95993)">AAGUID</text>
+        <path class="st3" id="rect4423-0-9" style="fill:none;stroke:#000;stroke-width:.47905511;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" d="M264.933 257.871h22.548v20.797h-22.548z"/>
+        <text xml:space="preserve" style="font-style:normal;font-weight:400;line-height:0%;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:#000;fill-opacity:1;stroke:none;stroke-width:.781311" x="278.238" y="99.179" id="text5642"><tspan id="tspan5640" x="278.238" y="99.179" style="font-size:30px;line-height:19.5328;stroke-width:.781311"> </tspan></text>
+        <text x="260.668" y="287.361" class="st2" id="text4446-3-7" style="font-size:9.75077px;line-height:0%;font-family:Calibri;text-align:center;text-anchor:middle;fill:#000;stroke-width:.975077" transform="scale(1.05819 .94501)">L</text>
+        <path class="st3" id="rect4423-5" style="fill:none;stroke:#000;stroke-width:.47905511;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" d="M287.394 257.87h80.585v20.799h-80.585z"/>
+        <text transform="scale(1.04175 .95993)" style="font-size:9.5993px;line-height:0%;font-family:Calibri;text-align:center;text-anchor:middle;fill:#000" id="text4446-3-1" class="st2" y="282.896" x="314.555">CREDENTIAL ID</text>
+        <text transform="scale(1.04175 .95993)" style="font-size:9.5993px;line-height:0%;font-family:Calibri;text-align:center;text-anchor:middle;fill:#000;stroke-width:1" id="text4446-3-1-9" class="st2" y="282.896" x="415.323">CREDENTIAL PUBLIC KEY</text>
+        <path class="st3" id="rect4423-8" style="fill:none;stroke:#000;stroke-width:.47905511;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" d="M367.962 257.87H497.97v20.799H367.962z"/>
+        <text x="415.769" y="299.324" class="st7" id="text4510-3" style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:7.67938px;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000;stroke-width:.959927" transform="scale(1.04175 .95993)"><tspan style="font-size:7.67938px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:.959927" y="299.324" x="415.769" id="tspan4137">variable length (COSE_Key)</tspan></text>
+        <text x="314.555" y="299.324" class="st7" id="text4510-3-9" style="font-size:7.67938px;line-height:100%;font-family:Calibri;fill:#000;stroke-width:.959927" transform="scale(1.04175 .95993)"><tspan x="314.555" y="299.324" id="tspan4345" style="text-align:center;text-anchor:middle;stroke-width:.959927">L bytes</tspan><tspan x="314.555" y="307.003" style="text-align:center;text-anchor:middle;stroke-width:.959927" id="tspan4349">(variable length)</tspan></text>
+        <text x="265.127" y="299.324" class="st7" id="text4483-1" style="font-size:7.67938px;line-height:0%;font-family:Calibri;text-align:center;text-anchor:middle;fill:#000;stroke-width:.959927" transform="scale(1.04175 .95993)">2 bytes</text>
+        <text x="215.225" y="299.324" class="st7" id="text4483-1-9" style="font-size:7.67938px;line-height:0%;font-family:Calibri;text-align:center;text-anchor:middle;fill:#000;stroke-width:.959927" transform="scale(1.04175 .95993)">16 bytes</text>
+        <g transform="translate(1.668 5.562)" id="g10865">
+            <path style="fill:none;stroke:#8c8c8c;stroke-width:.47905511;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none" d="M339.238 172.21c-19.667-18.354-63.918 0-63.918-14.46" id="path10801"/>
+            <path id="path10803" d="M339.728 172.21c19.667-18.354 63.919 0 63.919-14.46" style="fill:none;stroke:#8c8c8c;stroke-width:.47905511;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none"/>
+        </g>
+        <g transform="translate(1.668 5.562)" id="g10861">
+            <path id="path10815" d="M339.716 231.428c-48.31 18.354-157.01 0-157.01 14.46" style="fill:none;stroke:#8c8c8c;stroke-width:.47905511;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none"/>
+            <path style="fill:none;stroke:#8c8c8c;stroke-width:.47905511;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none" d="M339.716 231.428c48.31 18.354 158.212 0 158.212 14.46" id="path10817"/>
+        </g>
+        <g transform="translate(1.668 5.562)" id="g10857">
+            <path id="path10829" d="M149.283 154.121c-21.622 18.354-70.272 0-70.272 14.46" style="fill:none;stroke:#8c8c8c;stroke-width:.47905511;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none"/>
+            <path style="fill:none;stroke:#8c8c8c;stroke-width:.47905511;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none" d="M149.822 154.121c21.622 18.354 70.271 0 70.271 14.46" id="path10831"/>
+        </g>
+        <path id="path10839" d="m340.93 182.221.556 50.611" style="fill:#000;fill-opacity:.188235;stroke:#8c8c8c;stroke-width:.47905511;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.4;stroke-dasharray:1.43716538,.47905511;stroke-dashoffset:0;stroke-opacity:1"/>
+        <text x="68.474" y="154.487" class="st2" id="text4318" style="font-size:9.59927px;line-height:0%;font-family:Calibri;text-align:center;text-anchor:middle;overflow:visible;color-interpolation-filters:sRGB;fill:#000;fill-rule:evenodd;stroke-width:.959927;stroke-linecap:square;stroke-miterlimit:3" transform="scale(1.04175 .95993)">RP ID HASH</text>
+        <text x="145.476" y="154.482" class="st2" id="text4332" style="font-size:9.59927px;line-height:0%;font-family:Calibri;text-align:center;text-anchor:middle;overflow:visible;color-interpolation-filters:sRGB;fill:#000;fill-rule:evenodd;stroke-width:.959927;stroke-linecap:square;stroke-miterlimit:3" transform="scale(1.04175 .95993)">FLAGS</text>
+        <text x="215.94" y="154.487" class="st2" id="text4418" style="font-size:9.59927px;line-height:0%;font-family:Calibri;text-align:center;text-anchor:middle;overflow:visible;color-interpolation-filters:sRGB;fill:#000;fill-rule:evenodd;stroke-width:.959927;stroke-linecap:square;stroke-miterlimit:3" transform="scale(1.04175 .95993)">COUNTER</text>
+        <text x="327.237" y="154.463" class="st2" id="text4432" style="font-size:9.59927px;line-height:0%;font-family:Calibri;text-align:center;text-anchor:middle;overflow:visible;color-interpolation-filters:sRGB;fill:#000;fill-rule:evenodd;stroke-width:.959927;stroke-linecap:square;stroke-miterlimit:3" transform="scale(1.04175 .95993)">ATTESTED CRED. DATA</text>
+        <text x="453.929" y="154.487" class="st2" id="text4446" style="font-size:9.59927px;line-height:0%;font-family:Calibri;text-align:center;text-anchor:middle;overflow:visible;color-interpolation-filters:sRGB;fill:#000;fill-rule:evenodd;stroke-width:.959927;stroke-linecap:square;stroke-miterlimit:3" transform="scale(1.04175 .95993)">EXTENSIONS</text>
+        <text x="68.551" y="132.891" class="st7" id="text4474" style="font-size:7.67938px;line-height:0%;font-family:Calibri;text-align:center;text-anchor:middle;overflow:visible;color-interpolation-filters:sRGB;fill:#000;fill-rule:evenodd;stroke-width:.959927;stroke-linecap:square;stroke-miterlimit:3" transform="scale(1.04175 .95993)">32 bytes</text>
+        <text x="145.57" y="132.891" class="st7" id="text4483" style="font-size:7.67938px;line-height:0%;font-family:Calibri;text-align:center;text-anchor:middle;overflow:visible;color-interpolation-filters:sRGB;fill:#000;fill-rule:evenodd;stroke-width:.959927;stroke-linecap:square;stroke-miterlimit:3" transform="scale(1.04175 .95993)">1 byte</text>
+        <text x="216.234" y="132.891" class="st7" id="text4492" style="font-size:7.67938px;line-height:0%;font-family:Calibri;text-align:center;text-anchor:middle;overflow:visible;color-interpolation-filters:sRGB;fill:#000;fill-rule:evenodd;stroke-width:.959927;stroke-linecap:square;stroke-miterlimit:3" transform="scale(1.04175 .95993)">4 bytes (big-endian uint32)</text>
+        <text x="336.551" y="129.211" class="st7" id="text4501" style="font-size:7.46675px;line-height:0%;font-family:Calibri;text-align:center;text-anchor:middle;overflow:visible;color-interpolation-filters:sRGB;fill:#000;fill-rule:evenodd;stroke-width:.933347;stroke-linecap:square;stroke-miterlimit:3" transform="scale(1.0129 .98726)">variable length </text>
+        <g id="g5437">
+            <path class="st3" id="rect4234" style="fill:none;stroke:#000;stroke-width:.479963;stroke-linecap:round;stroke-linejoin:round" d="M81.598 179.8h136.063v21.404H81.598z"/>
+            <path d="M98.606 179.801v4.285" class="st4" id="path4239" style="stroke:#000;stroke-width:.479963;stroke-linecap:round;stroke-linejoin:round"/>
+            <path d="M98.606 196.924v4.285" class="st4" id="path4244" style="stroke:#000;stroke-width:.479963;stroke-linecap:round;stroke-linejoin:round"/>
+            <path d="M115.614 179.801v4.285" class="st4" id="path4249" style="stroke:#000;stroke-width:.479963;stroke-linecap:round;stroke-linejoin:round"/>
+            <path d="M115.614 196.924v4.285" class="st4" id="path4254" style="stroke:#000;stroke-width:.479963;stroke-linecap:round;stroke-linejoin:round"/>
+            <path d="M132.622 179.801v4.285" class="st4" id="path4259" style="stroke:#000;stroke-width:.479963;stroke-linecap:round;stroke-linejoin:round"/>
+            <path d="M132.622 196.924v4.285" class="st4" id="path4264" style="stroke:#000;stroke-width:.479963;stroke-linecap:round;stroke-linejoin:round"/>
+            <path d="M149.63 179.801v4.285" class="st4" id="path4269" style="stroke:#000;stroke-width:.479963;stroke-linecap:round;stroke-linejoin:round"/>
+            <path d="M149.63 196.924v4.285" class="st4" id="path4274" style="stroke:#000;stroke-width:.479963;stroke-linecap:round;stroke-linejoin:round"/>
+            <path d="M166.638 179.801v4.285" class="st4" id="path4279" style="stroke:#000;stroke-width:.479963;stroke-linecap:round;stroke-linejoin:round"/>
+            <path d="M166.638 196.924v4.285" class="st4" id="path4284" style="stroke:#000;stroke-width:.479963;stroke-linecap:round;stroke-linejoin:round"/>
+            <path d="M183.645 179.801v4.285" class="st4" id="path4289" style="stroke:#000;stroke-width:.479963;stroke-linecap:round;stroke-linejoin:round"/>
+            <path d="M183.645 196.924v4.285" class="st4" id="path4294" style="stroke:#000;stroke-width:.479963;stroke-linecap:round;stroke-linejoin:round"/>
+            <path d="M200.653 179.801v4.285" class="st4" id="path4299" style="stroke:#000;stroke-width:.479963;stroke-linecap:round;stroke-linejoin:round"/>
+            <path d="M200.653 196.924v4.285" class="st4" id="path4304" style="stroke:#000;stroke-width:.479963;stroke-linecap:round;stroke-linejoin:round"/>
+            <text transform="scale(1.04175 .95993)" style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:8.8px;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000" id="text4368" class="st6" y="201.601" x="167.727"><tspan style="font-size:8.8px;line-height:1.25;text-align:center;text-anchor:middle" y="201.601" x="167.727" id="tspan4132">UV</tspan></text>
+            <text transform="scale(1.04175 .95993)" style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:8.8px;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000" id="text4404" class="st7" y="201.601" x="200.604"><tspan style="font-size:8.8px;line-height:1.25;text-align:center;text-anchor:middle" id="tspan4126" x="200.604" y="201.601">UP</tspan></text>
+            <text style="font-size:6.71943px;line-height:0%;font-family:Calibri;text-align:center;text-anchor:middle;overflow:visible;color-interpolation-filters:sRGB;fill:#000;fill-rule:evenodd;stroke-width:.959927;stroke-linecap:square;stroke-miterlimit:3" id="text4015-9" class="st10" y="219.838" x="200.776" transform="scale(1.04175 .95993)">0</text>
+            <text x="86.508" y="219.838" class="st10" id="text4538" style="font-size:6.71943px;line-height:0%;font-family:Calibri;text-align:center;text-anchor:middle;fill:#000;stroke-width:.959927" transform="scale(1.04175 .95993)">7</text>
+            <text x="86.333" y="201.601" class="st6" id="text4395" style="font-size:8.8px;line-height:0%;font-family:Calibri;text-align:center;text-anchor:middle;overflow:visible;color-interpolation-filters:sRGB;fill:#000;fill-rule:evenodd;stroke-width:.959927;stroke-linecap:square;stroke-miterlimit:3" transform="scale(1.04175 .95993)">ED</text>
+            <text x="102.866" y="201.601" class="st6" id="text4386" style="font-size:8.8px;line-height:0%;font-family:Calibri;text-align:center;text-anchor:middle;overflow:visible;color-interpolation-filters:sRGB;fill:#000;fill-rule:evenodd;stroke-width:.959927;stroke-linecap:square;stroke-miterlimit:3" transform="scale(1.04175 .95993)">AT</text>
+            <text x="119.144" y="201.601" class="st6" id="text4341" style="font-size:8.8px;line-height:0%;font-family:Calibri;text-align:center;text-anchor:middle;overflow:visible;color-interpolation-filters:sRGB;fill:#000;fill-rule:evenodd;stroke-width:.959927;stroke-linecap:square;stroke-miterlimit:3" transform="scale(1.04175 .95993)">0</text>
+            <text x="135.25" y="201.601" class="st6" id="text4350" style="font-size:8.8px;line-height:0%;font-family:Calibri;text-align:center;text-anchor:middle;overflow:visible;color-interpolation-filters:sRGB;fill:#000;fill-rule:evenodd;stroke-width:.959927;stroke-linecap:square;stroke-miterlimit:3" transform="scale(1.04175 .95993)">BS</text>
+            <text x="151.634" y="201.601" class="st6" id="text4359" style="font-size:8.8px;line-height:0%;font-family:Calibri;text-align:center;text-anchor:middle;overflow:visible;color-interpolation-filters:sRGB;fill:#000;fill-rule:evenodd;stroke-width:.959927;stroke-linecap:square;stroke-miterlimit:3" transform="scale(1.04175 .95993)">BE</text>
+            <text x="184.449" y="201.601" class="st6" id="text4377" style="font-size:8.8px;line-height:0%;font-family:Calibri;text-align:center;text-anchor:middle;overflow:visible;color-interpolation-filters:sRGB;fill:#000;fill-rule:evenodd;stroke-width:.959927;stroke-linecap:square;stroke-miterlimit:3" transform="scale(1.04175 .95993)">0</text>
+        </g>
+    </g>
+    <g id="g10889" transform="matrix(-.73051 0 0 1 513.818 2.514)" style="stroke-width:1.16681">
+        <path style="fill:none;stroke:#8c8c8c;stroke-width:.56049448;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none" d="M554.306 322.107c12.75 26.316 49.042 4.953 49.042 25.687" id="path10871"/>
+        <path id="path10873" d="M554.077 322.685c-64.807 46.1-368.05-13.766-366.406 22.945" style="fill:none;stroke:#8c8c8c;stroke-width:.56049448;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none"/>
+    </g>
+    <g transform="matrix(1 0 0 1.32852 1.073 -10.161)" id="g5017">
+        <path id="path4748" d="M51.078 84.264c19.83-30.985 63.041-9.645 63.659-25.9" style="fill:none;stroke:#8c8c8c;stroke-width:.41562548;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none"/>
+        <path style="fill:none;stroke:#8c8c8c;stroke-width:.41562548;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none" d="M51.078 84.264c41.86-36.628 326.914 19.434 323.584-25.9" id="path4750"/>
+    </g>
+    <path style="fill:none;stroke:#8c8c8c;stroke-width:.47905511;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:1.43716407,.47905511;stroke-dashoffset:0;stroke-opacity:1" d="M52.151 101.786c-.058 32.944-.033 90.589-.033 113.01 0 62.65 56.942 46.655 56.942 96.94 0 9.482-.003 4.584-.003 13.463" id="path10901"/>
+    <g id="g664">
+        <g id="g1553" transform="translate(-33.119 9.013)">
+            <g id="shape60-158" transform="matrix(1 0 0 .92146 207.074 -166.512)">
+                <path class="st11" id="rect4610" style="fill:none;stroke:#000;stroke-width:.49905388;stroke-dasharray:none" d="M0 572.598h101.417v22.677H0z"/>
+                <text x="51.008" y="586.422" class="st2" id="text4612" style="font-size:10px;line-height:0%;font-family:Calibri;text-align:center;text-anchor:middle;fill:#000">“sig“:   ...</text>
+            </g>
+            <g id="shape61-161" transform="matrix(1 0 0 .92146 105.657 -166.512)">
+                <path class="st11" id="rect4619" style="fill:none;stroke:#000;stroke-width:.49905388;stroke-dasharray:none" d="M0 572.598h101.417v22.677H0z"/>
+                <text x="51.008" y="586.537" class="st2" id="text4623" style="font-size:10px;line-height:0%;font-family:Calibri;text-align:center;text-anchor:middle;fill:#000">“alg<tspan class="st12" id="tspan4621" style="font-size:10px;text-align:center;text-anchor:middle">“</tspan>:   ...</text>
+            </g>
+            <g transform="matrix(1 0 0 .92146 308.492 -166.512)" id="shape62-165">
+                <path style="fill:none;stroke:#000;stroke-width:.49905388;stroke-dasharray:none" id="rect4630" class="st11" d="M0 572.598h101.417v22.677H0z"/>
+                <text style="font-size:10px;line-height:0%;font-family:Calibri;text-align:center;text-anchor:middle;fill:#000" id="text4632" class="st2" y="587.437" x="51.008">“x5c“:   ...</text>
+            </g>
+        </g>
+        <g id="g1560" transform="translate(-159.581 .34)">
+            <text x="222.698" y="377.07" class="st2" id="text4603" style="font-size:9.59927px;line-height:0%;font-family:Calibri;fill:#000;stroke-width:.960003;stroke-miterlimit:3;stroke-dasharray:none" transform="scale(1.04175 .95993)">ATTESTATION STATEMENT</text>
+            <text transform="scale(1.04175 .95993)" x="352.179" y="377.07" class="st2" id="text10915" style="font-size:9.5993px;line-height:0%;font-family:Calibri;fill:#000"><tspan style="font-size:8px" id="tspan4706">(in &quot;packed&quot; attestation statement format)</tspan></text>
+        </g>
+    </g>
+</svg>
